@@ -11,6 +11,24 @@ fn install_gstreamer() {
         .success()
     {
         println!("Fedora detected via dnf");
+        Command::new("dnf")
+            .args(&[
+                "install",
+                "gstreamer1-devel",
+                "gstreamer1-plugins-base-tools",
+                "gstreamer1-devel-docs",
+                "gstreamer1-plugins-base-devel",
+                "gstreamer1-plugins-base-devel-docs",
+                "gstreamer1-plugins-good",
+                "gstreamer1-plugins-good-extras",
+                "gstreamer1-plugins-ugly",
+                "gstreamer1-plugins-ugly-devel-docs",
+                "gstreamer1-plugins-bad-free",
+                "gstreamer1-plugins-bad-free-devel",
+                "gstreamer1-plugins-bad-free-extras",
+            ])
+            .status()
+            .expect("failed to install gstreamer via dnf");
     }
 
     // Debian / Ubuntu
