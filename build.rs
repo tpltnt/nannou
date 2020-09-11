@@ -59,6 +59,7 @@ fn install_gstreamer() {
             ])
             .status()
             .expect("failed to install gstreamer via apt");
+        println!("kdgje");
     }
 
     // Arch Linux
@@ -69,6 +70,19 @@ fn install_gstreamer() {
         .success()
     {
         println!("Arch detected via pacman");
+        Command::new("pacman")
+            .args(&[
+                "-S",
+                "gstreamer",
+                "gst-libav",
+                "gst-plugins-bad",
+                "gst-plugins-base",
+                "gst-plugins-good",
+                "gst-plugins-ugly",
+                "gst-plugin-libde265",
+            ])
+            .status()
+            .expect("failed to install gstreamer via pacman");
     }
 }
 
