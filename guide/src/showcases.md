@@ -6,6 +6,7 @@ published.
 
 ## sketch collections
 * [sketches by mitchmindtree](https://github.com/mitchmindtree/nannou-sketches)
+* [sketches by pudnax](https://github.com/pudnax/sketches)
 
 ## software projects
 * [Oscen ("oh-sin")](https://github.com/reedrosenbluth/oscen) is a library for building modular synthesizers in Rust
