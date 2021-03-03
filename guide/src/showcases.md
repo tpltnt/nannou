@@ -8,6 +8,7 @@ published.
 * [Oscen ("oh-sin")](https://github.com/reedrosenbluth/oscen) is a library for building modular synthesizers in Rust
 * [microwave](https://github.com/Woyten/tune/tree/master/microwave) is a microtonal modular waveform synthesizer with soundfont rendering capabilities
 * [waveform](https://github.com/julesyoungberg/waveform) - basic audio visualizer in rust with nannou.
+* [Talking Windows](https://github.com/eulervoid/window-talk) - a generative animation with talking windows and an desperate mouse pointer trying to close them.
 * [ftrace sonifier](https://github.com/castor-software/rethread/tree/master/code/ftrace_sonifier) ... sonifies data sent from the [ftrace-live](https://github.com/namhyung/uftrace) function graph tracer
 
 ## hardware projects
