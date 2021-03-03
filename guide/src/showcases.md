@@ -5,6 +5,7 @@ recent to the past. Users could do a PR to have their own nannou projects
 published.
 
 * [sketches by mitchmindtree](https://github.com/mitchmindtree/nannou-sketches)
+* [Oscen ("oh-sin")](https://github.com/reedrosenbluth/oscen) is a library for building modular synthesizers in Rust
 * [ftrace sonifier](https://github.com/castor-software/rethread/tree/master/code/ftrace_sonifier) ... sonifies data sent from the [ftrace-live](https://github.com/namhyung/uftrace) function graph tracer
 * [MORPH](https://twitter.com/nburdy/status/1360220925820604419) a sculpture with 486 stepper motors, 86,000 LEDs and a 5 channel granular synth engine
 
