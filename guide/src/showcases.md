@@ -17,3 +17,4 @@ published.
 * [sketches by madskjeldgaard ](https://github.com/madskjeldgaard/nannou-sketches)
 * [sketches by pudnax](https://github.com/pudnax/sketches)
 * [0x0caf/star_burst]https://github.com/0x0caf/star_burst)
+* [0x0caf/color_dancing](https://github.com/0x0caf/color_dancing)
