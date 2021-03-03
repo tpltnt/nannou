@@ -20,3 +20,4 @@ published.
 * [0x0caf/star_burst]https://github.com/0x0caf/star_burst)
 * [0x0caf/color_dancing](https://github.com/0x0caf/color_dancing)
 * [Rainbow-Fluid](https://github.com/Cc618/Rainbow-Fluid) a grid based, RGB fluid simulation in Rust with Nannou
+* [synasius/nannou-arts](https://github.com/synasius/nannou-arts) ... some visuals created with the nannou framework
