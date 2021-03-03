@@ -5,6 +5,7 @@ recent to the past. Users could do a PR to have their own nannou projects
 published.
 
 ## software projects
+* [rusty-vision](https://github.com/julesyoungberg/rusty-vision) A live GLSL coding environment built with Rust, Nannou, and wgpu
 * [Oscen ("oh-sin")](https://github.com/reedrosenbluth/oscen) is a library for building modular synthesizers in Rust
 * [microwave](https://github.com/Woyten/tune/tree/master/microwave) is a microtonal modular waveform synthesizer with soundfont rendering capabilities
 * [waveform](https://github.com/julesyoungberg/waveform) - basic audio visualizer in rust with nannou.
