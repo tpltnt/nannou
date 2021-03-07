@@ -10,6 +10,7 @@
     - [Running Examples](./getting_started/running_examples.md)
     - [Create A Project](./getting_started/create_a_project.md)
     - [Updating Nannou and Rust](./getting_started/updating.md)
+    - [From openFrameworks to Nannou](./getting_started/oF_to_nannou.md)
 - [Tutorials](./tutorials.md)
     - [Basics - Anatomy of a Nannou App](./tutorials/basics/anatomy-of-a-nannou-app.md)
     - [Basics - Drawing a Sketch](./tutorials/basics/draw-a-sketch.md)
