@@ -4,7 +4,7 @@
 
 - Author: tpltnt
 - Required Knowledge:
-    - [Getting Started](/getting_started.md)
+    - openFrameworks
 - Reading Time: XX minutes
 
 ---
@@ -66,3 +66,4 @@ corresponding parts:
 |ofApp::update()|event(_app: &App, _model: &mut Model, _event: Event)|handle events to change the state of the app  |
 |ofApp::draw()  |view(_app: &App, _model: &Model, _frame: Frame)     |draw the current state for display            |
 
+More details on how nannou works can be found in [Anatomy of a Nannou App](/basics/anatomy-of-a-nannou-app.md).
