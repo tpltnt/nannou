@@ -10,4 +10,7 @@ In this section, we will:
 4. Run some nannou examples.
 5. Make our own, new nannou project!
 
+People with prior experience using other creative coding frameworks
+will also find help transitioning.
+
 Let's get started.
